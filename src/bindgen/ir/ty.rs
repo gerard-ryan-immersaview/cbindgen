@@ -295,7 +295,7 @@ impl PrimitiveType {
             PrimitiveType::Float => "float",
             PrimitiveType::Double => "double",
             PrimitiveType::PtrDiffT => "ptrdiff_t",
-            PrimitiveType::VaList => "va_list",
+            PrimitiveType::VaList => "...",
         }
     }
 
